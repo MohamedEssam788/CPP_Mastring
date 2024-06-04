@@ -1,0 +1,15 @@
+
+#ifndef PATTERNDESCRIPTION_HPP_
+#define PATTERNDESCRIPTION_HPP_
+
+/* Command Design Pattern is mainly used for  */
+/* decoupling the sender and receiver by executing
+a command after invoking by the sender(client) */
+/******************************************************/
+/* Singleton Pattern Components: 1- Command(Abstract class)
+                                 2- Concrete Command
+                                 3- Receiver
+                                 4- Invoker
+                                            */
+
+#endif // PATTERNDESCRIPTION_HPP_

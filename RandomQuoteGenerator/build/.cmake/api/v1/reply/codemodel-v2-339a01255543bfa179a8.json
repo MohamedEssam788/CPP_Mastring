@@ -1,0 +1,282 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "Command",
+					"jsonFile" : "directory-Command-Debug-bb4b5b6c7c18509aae7f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Command",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Observer",
+					"jsonFile" : "directory-Observer-Debug-84226cd0852812ad812f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Observer",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Singleton",
+					"jsonFile" : "directory-Singleton-Debug-3dddb33c77939e32b162.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Singleton",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "Threads",
+					"jsonFile" : "directory-Threads-Debug-6949575530ceeff59775.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "Threads",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "UserAuthorization",
+					"jsonFile" : "directory-UserAuthorization-Debug-d0db753bdc322948ff81.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "UserAuthorization",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "Program",
+					"jsonFile" : "directory-Program-Debug-bbc400578d553d69634e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "Program",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RandomQuoteGenerator",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Command",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Observer",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "Singleton",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "Threads",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "UserAuthorization",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "Program",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Command::@24aec6e4a02342e8c05f",
+					"jsonFile" : "target-Command-Debug-0279285e9d442706c2e9.json",
+					"name" : "Command",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Observer::@c6a355d0f466c6ef10f8",
+					"jsonFile" : "target-Observer-Debug-caabd8beb60d1656637b.json",
+					"name" : "Observer",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "Program::@c8339507ab2c3ffcf1c4",
+					"jsonFile" : "target-Program-Debug-8f5dd3899f6ff8a588ed.json",
+					"name" : "Program",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RandomQuoteGenerator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RandomQuoteGenerator-Debug-9718047357efe6885809.json",
+					"name" : "RandomQuoteGenerator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Singleton::@e5e5c95bf18b7ef2b9d1",
+					"jsonFile" : "target-Singleton-Debug-abecbacd1eef6beeabea.json",
+					"name" : "Singleton",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Threads::@e3da04bd4cf476d49da2",
+					"jsonFile" : "target-Threads-Debug-7d233f84326b8a6934c7.json",
+					"name" : "Threads",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "UserAuthorization::@6579c94010f190177547",
+					"jsonFile" : "target-UserAuthorization-Debug-f179a314ba6962789a3d.json",
+					"name" : "UserAuthorization",
+					"projectIndex" : 5
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ITIDA/03-Cpp/Project/RandomQuoteGenerator/build",
+		"source" : "D:/ITIDA/03-Cpp/Project/RandomQuoteGenerator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

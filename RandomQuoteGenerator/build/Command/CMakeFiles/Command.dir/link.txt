@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libCommand.a CMakeFiles/Command.dir/Command.cpp.obj CMakeFiles/Command.dir/Invoker.cpp.obj CMakeFiles/Command.dir/Receiver.cpp.obj CMakeFiles/Command.dir/QuoteDB_Handler.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libCommand.a

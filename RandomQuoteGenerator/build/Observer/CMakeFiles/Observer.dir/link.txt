@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libObserver.a CMakeFiles/Observer.dir/BackupManager.cpp.obj CMakeFiles/Observer.dir/ConcreteSubject.cpp.obj CMakeFiles/Observer.dir/Observer.cpp.obj CMakeFiles/Observer.dir/Subject.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libObserver.a

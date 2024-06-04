@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libThreads.a CMakeFiles/Threads.dir/SharedQuotes.cpp.obj CMakeFiles/Threads.dir/QuoteReceiver.cpp.obj CMakeFiles/Threads.dir/QuoteSender.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libThreads.a

@@ -1,0 +1,92 @@
+[
+{
+  "directory": "D:/ITIDA/03-Cpp/Project/RandomQuoteGenerator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -o CMakeFiles\\RandomQuoteGenerator.dir\\main.cpp.obj -c D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\main.cpp",
+  "file": "D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\main.cpp",
+  "output": "CMakeFiles\\RandomQuoteGenerator.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/ITIDA/03-Cpp/Project/RandomQuoteGenerator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -o Command\\CMakeFiles\\Command.dir\\Command.cpp.obj -c D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Command\\Command.cpp",
+  "file": "D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Command\\Command.cpp",
+  "output": "Command\\CMakeFiles\\Command.dir\\Command.cpp.obj"
+},
+{
+  "directory": "D:/ITIDA/03-Cpp/Project/RandomQuoteGenerator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -o Command\\CMakeFiles\\Command.dir\\Invoker.cpp.obj -c D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Command\\Invoker.cpp",
+  "file": "D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Command\\Invoker.cpp",
+  "output": "Command\\CMakeFiles\\Command.dir\\Invoker.cpp.obj"
+},
+{
+  "directory": "D:/ITIDA/03-Cpp/Project/RandomQuoteGenerator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -o Command\\CMakeFiles\\Command.dir\\Receiver.cpp.obj -c D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Command\\Receiver.cpp",
+  "file": "D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Command\\Receiver.cpp",
+  "output": "Command\\CMakeFiles\\Command.dir\\Receiver.cpp.obj"
+},
+{
+  "directory": "D:/ITIDA/03-Cpp/Project/RandomQuoteGenerator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -o Command\\CMakeFiles\\Command.dir\\QuoteDB_Handler.cpp.obj -c D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Command\\QuoteDB_Handler.cpp",
+  "file": "D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Command\\QuoteDB_Handler.cpp",
+  "output": "Command\\CMakeFiles\\Command.dir\\QuoteDB_Handler.cpp.obj"
+},
+{
+  "directory": "D:/ITIDA/03-Cpp/Project/RandomQuoteGenerator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -o Observer\\CMakeFiles\\Observer.dir\\BackupManager.cpp.obj -c D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Observer\\BackupManager.cpp",
+  "file": "D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Observer\\BackupManager.cpp",
+  "output": "Observer\\CMakeFiles\\Observer.dir\\BackupManager.cpp.obj"
+},
+{
+  "directory": "D:/ITIDA/03-Cpp/Project/RandomQuoteGenerator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -o Observer\\CMakeFiles\\Observer.dir\\ConcreteSubject.cpp.obj -c D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Observer\\ConcreteSubject.cpp",
+  "file": "D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Observer\\ConcreteSubject.cpp",
+  "output": "Observer\\CMakeFiles\\Observer.dir\\ConcreteSubject.cpp.obj"
+},
+{
+  "directory": "D:/ITIDA/03-Cpp/Project/RandomQuoteGenerator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -o Observer\\CMakeFiles\\Observer.dir\\Observer.cpp.obj -c D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Observer\\Observer.cpp",
+  "file": "D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Observer\\Observer.cpp",
+  "output": "Observer\\CMakeFiles\\Observer.dir\\Observer.cpp.obj"
+},
+{
+  "directory": "D:/ITIDA/03-Cpp/Project/RandomQuoteGenerator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -o Observer\\CMakeFiles\\Observer.dir\\Subject.cpp.obj -c D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Observer\\Subject.cpp",
+  "file": "D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Observer\\Subject.cpp",
+  "output": "Observer\\CMakeFiles\\Observer.dir\\Subject.cpp.obj"
+},
+{
+  "directory": "D:/ITIDA/03-Cpp/Project/RandomQuoteGenerator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -o Singleton\\CMakeFiles\\Singleton.dir\\quoteDB.cpp.obj -c D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Singleton\\quoteDB.cpp",
+  "file": "D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Singleton\\quoteDB.cpp",
+  "output": "Singleton\\CMakeFiles\\Singleton.dir\\quoteDB.cpp.obj"
+},
+{
+  "directory": "D:/ITIDA/03-Cpp/Project/RandomQuoteGenerator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -o Threads\\CMakeFiles\\Threads.dir\\SharedQuotes.cpp.obj -c D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Threads\\SharedQuotes.cpp",
+  "file": "D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Threads\\SharedQuotes.cpp",
+  "output": "Threads\\CMakeFiles\\Threads.dir\\SharedQuotes.cpp.obj"
+},
+{
+  "directory": "D:/ITIDA/03-Cpp/Project/RandomQuoteGenerator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -o Threads\\CMakeFiles\\Threads.dir\\QuoteReceiver.cpp.obj -c D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Threads\\QuoteReceiver.cpp",
+  "file": "D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Threads\\QuoteReceiver.cpp",
+  "output": "Threads\\CMakeFiles\\Threads.dir\\QuoteReceiver.cpp.obj"
+},
+{
+  "directory": "D:/ITIDA/03-Cpp/Project/RandomQuoteGenerator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -o Threads\\CMakeFiles\\Threads.dir\\QuoteSender.cpp.obj -c D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Threads\\QuoteSender.cpp",
+  "file": "D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Threads\\QuoteSender.cpp",
+  "output": "Threads\\CMakeFiles\\Threads.dir\\QuoteSender.cpp.obj"
+},
+{
+  "directory": "D:/ITIDA/03-Cpp/Project/RandomQuoteGenerator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -o UserAuthorization\\CMakeFiles\\UserAuthorization.dir\\UserAuth.cpp.obj -c D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\UserAuthorization\\UserAuth.cpp",
+  "file": "D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\UserAuthorization\\UserAuth.cpp",
+  "output": "UserAuthorization\\CMakeFiles\\UserAuthorization.dir\\UserAuth.cpp.obj"
+},
+{
+  "directory": "D:/ITIDA/03-Cpp/Project/RandomQuoteGenerator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -o Program\\CMakeFiles\\Program.dir\\Program.cpp.obj -c D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Program\\Program.cpp",
+  "file": "D:\\ITIDA\\03-Cpp\\Project\\RandomQuoteGenerator\\Program\\Program.cpp",
+  "output": "Program\\CMakeFiles\\Program.dir\\Program.cpp.obj"
+}
+]
